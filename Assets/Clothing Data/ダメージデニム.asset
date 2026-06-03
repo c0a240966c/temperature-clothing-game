@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9ab39cb4a2874048aeaa1cf4f473803, type: 3}
+  m_Name: "\u30C0\u30E1\u30FC\u30B8\u30C7\u30CB\u30E0"
+  m_EditorClassIdentifier: Assembly-CSharp::ClothingData
+  clothingName: "\u30C0\u30E1\u30FC\u30B8\u30C7\u30CB\u30E0"
+  clothingType: 2
+  speedMultiplier: 1
+  mistakeRate: 0.03
+  minTemperature: 18
+  maxTemperature: 35
+  suitableMinTemp: 18
+  suitableMaxTemp: 35

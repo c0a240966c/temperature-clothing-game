@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7470596064580287417
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.121
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000000046893263
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.15386
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7045742943448404790, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 30582e0a0c48a4c0daa749fcaa86c254, type: 2}
+    - target: {fileID: 919132149155446097, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      propertyPath: m_Name
+      value: hoodie-0002-campusComeback_model
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -973318841837521593}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7252973269029556109}
+  m_SourcePrefab: {fileID: 100100000, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+--- !u!1 &7740995461551490792 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e2a34b943e6c34299b74b253a1069064, type: 3}
+  m_PrefabInstance: {fileID: 7470596064580287417}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &-973318841837521593
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7740995461551490792}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-7252973269029556109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7740995461551490792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a51775c11ce9ea4cb21cbfb50deaef1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ClothingItem
+  data: {fileID: 11400000, guid: e3d903a5f80951a4db9fe31b13735e86, type: 2}
