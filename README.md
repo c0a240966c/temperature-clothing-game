@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/b8722aec-d9b3-4597-9690-f45fe21f7d2a
 # 気温に合った服を着よう (Temperature Clothing Game)
 
 ## 概要
@@ -148,7 +150,14 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 ## プレイ動画
 
 1.プレイ全体
-https://github.com/user-attachments/assets/5cebf09e-0cd9-4159-8093-dfa2fde57169
+[動画を見る]https://github.com/user-attachments/assets/8ca8b585-c5bf-4006-963d-97866bccfd59
+
+2.気温によってプレイヤーの速度変化
+夏服取得時（速度UP）[動画を見る]
+
+
+
+冬服取得時（速度DOWN）[動画を見る]
 
 
 
