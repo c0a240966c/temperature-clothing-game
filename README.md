@@ -132,7 +132,12 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 ## スクリーンショット
 
 ゲーム画面
+1
 <img width="1988" height="1118" alt="play1" src="https://github.com/user-attachments/assets/688480bd-d156-45f4-ac52-2fcb360a6cd1" />
+2
+<img width="1978" height="1110" alt="play2" src="https://github.com/user-attachments/assets/9879acdb-09b5-4c9b-a04e-ec6514f2bfe6" />
+3
+<img width="1982" height="1114" alt="play3" src="https://github.com/user-attachments/assets/28a454f5-7fa3-4df0-a245-3dcf74782ebb" />
 
 
 ---
