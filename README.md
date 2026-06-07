@@ -132,11 +132,14 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 ## スクリーンショット
 
 ゲーム画面
-1
+
+1.ゲーム開始時
 <img width="1988" height="1118" alt="play1" src="https://github.com/user-attachments/assets/688480bd-d156-45f4-ac52-2fcb360a6cd1" />
-2
+
+2. 服を取得した状態
 <img width="1978" height="1110" alt="play2" src="https://github.com/user-attachments/assets/9879acdb-09b5-4c9b-a04e-ec6514f2bfe6" />
-3
+
+3.クリア画面
 <img width="1982" height="1114" alt="play3" src="https://github.com/user-attachments/assets/28a454f5-7fa3-4df0-a245-3dcf74782ebb" />
 
 
@@ -144,7 +147,13 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 
 ## プレイ動画
 
-（動画を掲載予定）
+1.プレイ全体
+https://github.com/user-attachments/assets/5cebf09e-0cd9-4159-8093-dfa2fde57169
+
+
+
+
+
 
 ---
 
