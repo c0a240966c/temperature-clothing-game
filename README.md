@@ -132,7 +132,8 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 ## スクリーンショット
 
 ゲーム画面
-https://gyazo.com/30dc1f44052d1353cd2d16dae854d2de
+<img width="1988" height="1118" alt="play1" src="https://github.com/user-attachments/assets/688480bd-d156-45f4-ac52-2fcb360a6cd1" />
+
 
 ---
 
