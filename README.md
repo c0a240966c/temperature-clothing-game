@@ -140,6 +140,7 @@ ScriptableObjectを利用して服データとゲームロジックを分離し�
 ゲーム画面
 
 1.ゲーム開始時
+![ゲーム開始](images/play1.png)
 <img width="1988" height="1118" alt="play1" src="https://github.com/user-attachments/assets/688480bd-d156-45f4-ac52-2fcb360a6cd1" />
 
 2. 服を取得した状態
